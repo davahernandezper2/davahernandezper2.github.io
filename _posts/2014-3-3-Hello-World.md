@@ -20,7 +20,7 @@ A continuación se muestran unas obras creadas a partir de funciones trigonomét
 
 # Creaciones a partir de funciones trigonométricas:
 
-Las funciones hiperbólicas se basan en la función exponencial conectando mediante operaciones racionales y son análogas a las funciones trigonométricas. A continuación se muestran las curvas de estas funciones para identificarlas dentro de las obras. 
+Las funciones hiperbólicas se basan en la función exponencial conectando mediante operaciones racionales y son análogas a las funciones trigonométricas. Se muestran las curvas de estas funciones para identificarlas dentro de las obras. 
 
 ![_config.yml]({{ site.baseurl }}/images/graf1_4.PNG)
 
