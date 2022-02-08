@@ -31,6 +31,10 @@ Se utiliza la técnica de k-means para realizar 6 agrupamientos (como se muestra
 
 ![_config.yml]({{ site.baseurl }}/images/ec1_4.PNG)
 
+![_config.yml]({{ site.baseurl }}/images/graf2_4.PNG)
+
+
+
 # Creaciones a partir de distribuciones multivariadas: 
 
 
