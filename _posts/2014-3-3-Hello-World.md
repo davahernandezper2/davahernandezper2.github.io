@@ -21,12 +21,13 @@ Se realizaron combinaciones entre el seno, el coseno, el seno hiperbólico y el 
 
 
 
-# Creaciones a partir de agrupamientos 
+# Creaciones a partir de agrupamientos:
 
 Se utiliza la técnica de k-means para realizar 6 agrupamientos (como se muestra en la figura) y a su vez se combina con una función del paquete _mathart_ llamada lissajous, la cual genera datos para graficar el sistema de ecuaciones paramétricas que corresponde a la superposición de dos movimientos armónicos simples en direcciones perpendiculares. (colaboradores de Wikipedia, 2021)
 
 ![_config.yml]({{ site.baseurl }}/images/ec1_4.PNG)
 
+# Creaciones a partir de distribuciones multivariadas: 
 
 
 # Bibliografía 
