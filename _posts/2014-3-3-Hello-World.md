@@ -4,15 +4,18 @@ title: You're up and running!
 published: true
 ---
 
+# Introducción 
+
 El arte generativo tiene como característica principal el propiciar encuentros entre sistemas autónomos y artistas, hay un cambio sutil pero potente en la relación artista-máquina. La clave está en el “ceder” parte de los procesos creativos a los 18 sistemas que empiezan a exhibir ciertos grados de autonomía. (Rubiano, 2019)
 A menudo, el arte generativo se inspira en el arte moderno, especialmente en el arte pop, que hace un uso intensivo de patrones geométricos ordenados. Sin embargo, es una categoría muy amplia y rica de arte creado con código con una característica central. 
 
 # Arte Generativo 
 
 La obra de arte se convierte en una colaboración entre la computadora y el artista. El programador controla algunos aspectos de la obra de arte, pero no todos. El artista controla tanto la aleatoriedad como el orden en el arte. En cierto modo, con un sistema autónomo, el artista cede el control de su arte y la computadora lo hace por él.  El codificador-artista se involucra en un circuito de retroalimentación en el que constantemente modifica un sistema para producir resultados más deseables y, a menudo, más sorprendentes.
+
 Este proceso abarca la experimentación y los “accidentes felices” de una manera que remodela el papel del artista. Un artista generativo es aquel que utiliza conceptos básicos del código como bucles, flujo de control y funciones especializadas, para producir resultados completamente únicos, diferentes a cualquier otra cosa que exista. (freeCodeCamp, 2018)
 
-A continuación se muestran unas obras creadas a partir de funciones trigonométricas hiperbólicas, agrupamientos y distribuciones uni y multivariadas. 
+A continuación se muestran unas obras creadas a partir de funciones trigonométricas hiperbólicas, agrupamientos, distribuciones univariadas y multivariadas. 
 
 
 # Creaciones a partir de funciones trigonométricas:
