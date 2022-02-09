@@ -63,6 +63,11 @@ La distribución Normal o Gaussiana es de las que se ven con más frecuencia en 
 
 ![_config.yml]({{ site.baseurl }}/images/normal_multi3.png)
 
+
+## Repositorio
+En el siguiente link se encuentran los códigos respectivos que generan las imagenes presentadas anteriormente:
+[https://github.com/davahernandezper/arte_generativo](https://github.com/davahernandezper/arte_generativo)
+
 # Bibliografía 
 
 -  Colaboradores de Wikipedia. (2021, 24 abril). Curva de Lissajous. Wikipedia, la enciclopedia libre. Recuperado 6 de febrero de 2022, de https://es.wikipedia.org/wiki/Curva_de_Lissajous.
