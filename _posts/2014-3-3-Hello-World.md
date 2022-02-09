@@ -65,16 +65,16 @@ La distribución Normal o Gaussiana es de las que se ven con más frecuencia en 
 
 # Bibliografía 
 
--Colaboradores de Wikipedia. (2021, 24 abril). Curva de Lissajous. Wikipedia, la enciclopedia libre. Recuperado 6 de febrero de 2022, de https://es.wikipedia.org/wiki/Curva_de_Lissajous.
+-  Colaboradores de Wikipedia. (2021, 24 abril). Curva de Lissajous. Wikipedia, la enciclopedia libre. Recuperado 6 de febrero de 2022, de https://es.wikipedia.org/wiki/Curva_de_Lissajous.
 
--S. (s. f.). GitHub - sepandhaghighi/samila: Generative Art Generator. GitHub. Recuperado 4 de febrero de 2022, de https://github.com/sepandhaghighi/samila#mathematical-details
+-  S. (s. f.). GitHub - sepandhaghighi/samila: Generative Art Generator. GitHub. Recuperado 4 de febrero de 2022, de https://github.com/sepandhaghighi/samila#mathematical-details
 
--@aschinchon. (2021, 2 enero). Fronkonstin. Fronkonstin | Experiments in R. Recuperado 4 de febrero de 2022, de https://fronkonstin.com/.
+-  @aschinchon. (2021, 2 enero). Fronkonstin. Fronkonstin | Experiments in R. Recuperado 4 de febrero de 2022, de https://fronkonstin.com/.
 
--M., & M. (s. f.-a). mathart/k_nearest_neighbour_graph.R at master · marcusvolz/mathart. GitHub. Recuperado 5 de febrero de 2022, de https://github.com/marcusvolz/mathart/blob/master/R/k_nearest_neighbour_graph.R.
+-  M., & M. (s. f.-a). mathart/k_nearest_neighbour_graph.R at master · marcusvolz/mathart. GitHub. Recuperado 5 de febrero de 2022, de https://github.com/marcusvolz/mathart/blob/master/R/k_nearest_neighbour_graph.R.
 
--C. (s. f.-a). GitHub - cutterkom/generativeart-crochet-patterns: This code combines Crochets patterns from @aschinchon with the R-package generativeart. GitHub. Recuperado 4 de febrero de 2022, de https://github.com/cutterkom/generativeart-crochet-patterns.
+-  C. (s. f.-a). GitHub - cutterkom/generativeart-crochet-patterns: This code combines Crochets patterns from @aschinchon with the R-package generativeart. GitHub. Recuperado 4 de febrero de 2022, de https://github.com/cutterkom/generativeart-crochet-patterns.
 
--Gómez-Chacón, Inés Ma; Català, Claudi Alsina; Raig, Núria Planas; Rodríguez, Joaquim Giménez; Muñoz, Yuly Marsela Vanegas; Sirera, Marta Civil (4 de octubre de 2010). Educación matemática y ciudadanía. Grao. ISBN 9788499801667. Recuparado el 7 de febrero de 2022.
+-  Gómez-Chacón, Inés Ma; Català, Claudi Alsina; Raig, Núria Planas; Rodríguez, Joaquim Giménez; Muñoz, Yuly Marsela Vanegas; Sirera, Marta Civil (4 de octubre de 2010). Educación matemática y ciudadanía. Grao. ISBN 9788499801667. Recuparado el 7 de febrero de 2022.
 
--colaboradores de Wikipedia. (2022, 20 enero). Distribución normal multivariada. Wikipedia, la enciclopedia libre. Recuperado 7 de febrero de 2022, de https://es.wikipedia.org/wiki/Distribuci%C3%B3n_normal_multivariada#Definici%C3%B3n.
+-  Colaboradores de Wikipedia. (2022, 20 enero). Distribución normal multivariada. Wikipedia, la enciclopedia libre. Recuperado 7 de febrero de 2022, de https://es.wikipedia.org/wiki/Distribuci%C3%B3n_normal_multivariada#Definici%C3%B3n.
