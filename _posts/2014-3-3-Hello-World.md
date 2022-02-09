@@ -46,7 +46,7 @@ Se utiliza la técnica de k-means para realizar 6 agrupamientos (como se muestra
 
 ![_config.yml]({{ site.baseurl }}/images/graf2_4.PNG)
 
-![_config.yml]({{ site.baseurl }}/images/cluster_1_(knn).png)
+![_config.yml]({{ site.baseurl }}/images/cluster_1.png)
 
 ![_config.yml]({{ site.baseurl }}/images/cluster_2.png)
 
@@ -56,7 +56,7 @@ Se utiliza la distribución Normal multivariada para generar el conjunto de punt
 
 La distribución Normal o Gaussiana es de las que se ven con más frecuencia en estadística o teoría de probabilidad, es de gran importancia pues  permite modelar numerosos fenómenos naturales, sociales y psicológicos. (Gómez-Chacón,Català,Raig,Rodríguez,Muñoz,Sirera, 2010)
 
-![_config.yml]({{ site.baseurl }}/images/graf3_4.NG)
+![_config.yml]({{ site.baseurl }}/images/graf3_4.PNG)
 
 ![_config.yml]({{ site.baseurl }}/images/normal_multi1.png)
 
