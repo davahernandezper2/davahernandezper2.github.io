@@ -40,6 +40,13 @@ Se utiliza la técnica de k-means para realizar 6 agrupamientos (como se muestra
 
 # Creaciones a partir de distribuciones multivariadas: 
 
+Se utiliza la distribución Normal multivariada para generar el conjunto de puntos X´s y Y´s , estos se implementan junto con distribuciones trigonométricas como lo son el seno y el coseno (normales e hiperbólicos) para generar las obras, también se utiliza la distribución Uniforme en algunos casos para hacer la generación de los puntos. 
+
+La distribución Normal o Gaussiana es de las que se ven con más frecuencia en estadística o teoría de probabilidad, es de gran importancia pues  permite modelar numerosos fenómenos naturales, sociales y psicológicos. (Gómez-Chacón,Català,Raig,Rodríguez,Muñoz,Sirera, 2010)
+
+![_config.yml]({{ site.baseurl }}/images/graf34.PNG)
+
+
 
 # Bibliografía 
 
@@ -53,4 +60,7 @@ Se utiliza la técnica de k-means para realizar 6 agrupamientos (como se muestra
 
 -C. (s. f.-a). GitHub - cutterkom/generativeart-crochet-patterns: This code combines Crochets patterns from @aschinchon with the R-package generativeart. GitHub. Recuperado 4 de febrero de 2022, de https://github.com/cutterkom/generativeart-crochet-patterns.
 
+-  Gómez-Chacón, Inés Ma; Català, Claudi Alsina; Raig, Núria Planas; Rodríguez, Joaquim Giménez; Muñoz, Yuly Marsela Vanegas; Sirera, Marta Civil (4 de octubre de 2010). Educación matemática y ciudadanía. Grao. ISBN 9788499801667. Recuparado el 7 de febrero de 2022.
+
+-colaboradores de Wikipedia. (2022, 20 enero). Distribución normal multivariada. Wikipedia, la enciclopedia libre. Recuperado 7 de febrero de 2022, de https://es.wikipedia.org/wiki/Distribuci%C3%B3n_normal_multivariada#Definici%C3%B3n.
 
