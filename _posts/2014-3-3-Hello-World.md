@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Arte Generativo - TAE '
+title: ''
 published: true
 ---
 
