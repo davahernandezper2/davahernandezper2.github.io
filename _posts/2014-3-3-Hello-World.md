@@ -45,7 +45,7 @@ Se utiliza la distribución Normal multivariada para generar el conjunto de punt
 
 La distribución Normal o Gaussiana es de las que se ven con más frecuencia en estadística o teoría de probabilidad, es de gran importancia pues  permite modelar numerosos fenómenos naturales, sociales y psicológicos. (Gómez-Chacón,Català,Raig,Rodríguez,Muñoz,Sirera, 2010)
 
-![_config.yml]({{ site.baseurl }}/images/graf34.PNG)
+![_config.yml]({{ site.baseurl }}/images/graf3_4.PNG)
 
 
 
