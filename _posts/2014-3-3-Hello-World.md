@@ -5,7 +5,6 @@ published: true
 ---
 
 # Introducción 
-
 El arte generativo tiene como característica principal el propiciar encuentros entre sistemas autónomos y artistas, hay un cambio sutil pero potente en la relación artista-máquina. La clave está en el “ceder” parte de los procesos creativos a los 18 sistemas que empiezan a exhibir ciertos grados de autonomía. (Rubiano, 2019)
 
 A menudo, el arte generativo se inspira en el arte moderno, especialmente en el arte pop, que hace un uso intensivo de patrones geométricos ordenados. Sin embargo, es una categoría muy amplia y rica de arte creado con código con una característica central. 
@@ -79,4 +78,3 @@ La distribución Normal o Gaussiana es de las que se ven con más frecuencia en 
 -Gómez-Chacón, Inés Ma; Català, Claudi Alsina; Raig, Núria Planas; Rodríguez, Joaquim Giménez; Muñoz, Yuly Marsela Vanegas; Sirera, Marta Civil (4 de octubre de 2010). Educación matemática y ciudadanía. Grao. ISBN 9788499801667. Recuparado el 7 de febrero de 2022.
 
 -colaboradores de Wikipedia. (2022, 20 enero). Distribución normal multivariada. Wikipedia, la enciclopedia libre. Recuperado 7 de febrero de 2022, de https://es.wikipedia.org/wiki/Distribuci%C3%B3n_normal_multivariada#Definici%C3%B3n.
-
