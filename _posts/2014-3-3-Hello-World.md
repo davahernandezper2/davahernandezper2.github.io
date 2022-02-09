@@ -48,7 +48,7 @@ Se utiliza la técnica de k-means para realizar 6 agrupamientos (como se muestra
 
 ![_config.yml]({{ site.baseurl }}/images/cluster_1_(knn).png)
 
-![_config.yml]({{ site.baseurl }}/images/cluster_2_(knn).png)
+![_config.yml]({{ site.baseurl }}/images/cluster_2.png)
 
 # Creaciones a partir de distribuciones multivariadas: 
 
