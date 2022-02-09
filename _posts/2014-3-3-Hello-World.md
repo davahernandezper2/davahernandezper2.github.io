@@ -48,6 +48,8 @@ Se utiliza la técnica de k-means para realizar 6 agrupamientos (como se muestra
 
 ![_config.yml]({{ site.baseurl }}/images/cluster_1_(knn).png)
 
+![_config.yml]({{ site.baseurl }}/images/cluster_2_(knn).png)
+
 # Creaciones a partir de distribuciones multivariadas: 
 
 Se utiliza la distribución Normal multivariada para generar el conjunto de puntos X´s y Y´s , estos se implementan junto con distribuciones trigonométricas como lo son el seno y el coseno (normales e hiperbólicos) para generar las obras, también se utiliza la distribución Uniforme en algunos casos para hacer la generación de los puntos. 
