@@ -27,6 +27,15 @@ Las funciones hiperbólicas se basan en la función exponencial conectando media
 
 Se realizaron combinaciones entre el seno, el coseno, el seno hiperbólico y el coseno hiperbólico dentro de algunas definiciones de las X's y las Y's para así poder darle forma a las figuras que se muestran a continuación: 
 
+![_config.yml]({{ site.baseurl }}/images/trigonometrica1.jpeg)
+
+![_config.yml]({{ site.baseurl }}/images/trigonometrica2.png)
+
+![_config.yml]({{ site.baseurl }}/images/trigonometrica3.png)
+
+![_config.yml]({{ site.baseurl }}/images/trigonometrica4.png)
+
+![_config.yml]({{ site.baseurl }}/images/trigonometrica5.png)
 
 
 # Creaciones a partir de agrupamientos:
@@ -37,7 +46,7 @@ Se utiliza la técnica de k-means para realizar 6 agrupamientos (como se muestra
 
 ![_config.yml]({{ site.baseurl }}/images/graf2_4.PNG)
 
-
+![_config.yml]({{ site.baseurl }}/images/cluster_1_(knn).png)
 
 # Creaciones a partir de distribuciones multivariadas: 
 
@@ -47,7 +56,11 @@ La distribución Normal o Gaussiana es de las que se ven con más frecuencia en 
 
 ![_config.yml]({{ site.baseurl }}/images/graf3_4.NG)
 
+![_config.yml]({{ site.baseurl }}/images/normal_multi1.png)
 
+![_config.yml]({{ site.baseurl }}/images/normal_multi2.png)
+
+![_config.yml]({{ site.baseurl }}/images/normal_multi3.png)
 
 # Bibliografía 
 
