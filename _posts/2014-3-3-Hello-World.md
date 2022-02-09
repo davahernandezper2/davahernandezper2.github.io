@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: 'Arte Generativo - TAE '
 published: true
 ---
-
-# Introducción 
 El arte generativo tiene como característica principal el propiciar encuentros entre sistemas autónomos y artistas, hay un cambio sutil pero potente en la relación artista-máquina. La clave está en el “ceder” parte de los procesos creativos a los 18 sistemas que empiezan a exhibir ciertos grados de autonomía. (Rubiano, 2019)
 
 A menudo, el arte generativo se inspira en el arte moderno, especialmente en el arte pop, que hace un uso intensivo de patrones geométricos ordenados. Sin embargo, es una categoría muy amplia y rica de arte creado con código con una característica central. 
