@@ -83,3 +83,5 @@ En el siguiente link se encuentran los códigos respectivos que generan las imag
 -  Gómez-Chacón, Inés Ma; Català, Claudi Alsina; Raig, Núria Planas; Rodríguez, Joaquim Giménez; Muñoz, Yuly Marsela Vanegas; Sirera, Marta Civil (4 de octubre de 2010). Educación matemática y ciudadanía. Grao. ISBN 9788499801667. Recuparado el 7 de febrero de 2022.
 
 -  Colaboradores de Wikipedia. (2022, 20 enero). Distribución normal multivariada. Wikipedia, la enciclopedia libre. Recuperado 7 de febrero de 2022, de [https://es.wikipedia.org/wiki/Distribuci%C3%B3n_normal_multivariada#Definici%C3%B3n](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_normal_multivariada#Definici%C3%B3n).
+
+
